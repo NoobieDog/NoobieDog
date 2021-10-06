@@ -13,5 +13,7 @@ Stu is a Offensive hacker, He loves to break things, he is always looking for th
 
 ![NoobieDog's github stats](https://github-readme-stats.vercel.app/api?username=NoobieDog&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoobieDog)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## ⌨️ Blog: 
 I post most of my personal research on [my blog](https://noobiedog.com)
