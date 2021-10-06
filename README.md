@@ -1,6 +1,6 @@
 # 🔑 Intro:
 
-<img src="https://noobiedog.com/content/images/2020/04/DBGicHEXkAEgiek.jpg" data-canonical-src="https://noobiedog.com/content/images/2020/04/DBGicHEXkAEgiek.jpg" width="250" height="300" />
+<img src="https://noobiedog.com/content/images/2020/04/DBGicHEXkAEgiek.jpg" data-canonical-src="https://noobiedog.com/content/images/2020/04/DBGicHEXkAEgiek.jpg" width="250" height="250" />
 
 Stu is a Offensive hacker, He loves to break things, he is always looking for the evil in what he does!.
 
