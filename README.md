@@ -14,4 +14,4 @@ Stu is a Offensive hacker, He loves to break things, he is always looking for th
 [![trophy](https://github-profile-trophy.vercel.app/?username=NoobieDog)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⌨️ Blog: 
-I post most of my personal research on [my blog](https://noobiedog.com)
+I post most of my personal research on [my blog](https://noobie.dog)
